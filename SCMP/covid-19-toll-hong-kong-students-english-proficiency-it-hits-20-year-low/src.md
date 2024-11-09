@@ -22,10 +22,35 @@ The latest figures were compiled from the scores of Primary Three and Form Three
 
 According to the data, 67 per cent of Form Three pupils passed the English section, a drop of 0.8 percentage points from the previous year and representing a new low since the assessment was introduced in secondary schools.
 
+最新数据来自2023-24学年参加评估的小三和中三学生的成绩。根据数据，中三学生中有67%通过了英语部分，比前一年下降了0.8个百分点，创下该评估在中学引入以来的新低。
+
 The results also showed 78.7 per cent of Primary Three pupils had a basic level of English competency, the lowest since 2005 and a drop of 0.8 percentage points from the previous year.
 
 According to the bureau, 80.9 per cent of Primary Three students passed the Chinese test. The figure was the lowest since the assessment was launched in primary schools.
 
+结果还显示，78.7%的小三学生具备基础英语水平，这是自2005年以来的最低水平，比前一年下降了0.8个百分点。
+据教育局数据，小三学生中有80.9%通过了中文测试，这一数据是自评估在小学引入以来的最低值。
+
 Their performance in maths also suffered a decline, with 85.3 per cent of Primary Three pupils passing the test, the lowest level since 2005.
 
 Form Three students fared better in Chinese and maths than their peers from past years.
+
+他们在数学方面的表现也出现下降，只有85.3%的小三学生通过了测试，是自2005年以来的最低水平。
+
+中三学生在中文和数学方面的表现优于往年同龄人。
+
+“K3 is the year when all students formally learn how to write and it is the year for students to get prepared for Primary One, but those classes were mostly suspended [during the pandemic],” the principal said.
+
+“This prompted primary teachers to put extra effort into teaching them basic skills when they reached primary schools.”
+
+Chan said she expected the situation to start to improve in the next one or two years.
+
+She also noted that pupils who had parental support and guidance during the pandemic fared better than those who were primarily looked after by domestic helpers and grandparents.
+
+“After all, it really depends on how much effort parents put into their children on an academic basis,” she said.
+
+Professor Hau Kit-tai of the Chinese University of Hong Kong’s department of educational psychology agreed that students’ poor performance, particularly those in Primary Three, could be attributed to the impact of the pandemic.
+
+Hau, who is an expert on the assessment system, noted the academic performance of students around the world had generally suffered during the health crisis.
+
+“But if the continual fall lasts one more year, some remedial measures may have to be implemented to improve their learning,” he said.
