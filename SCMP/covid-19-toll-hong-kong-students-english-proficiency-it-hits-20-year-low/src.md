@@ -9,6 +9,7 @@ Proficiency in Chinese, English and maths among Primary Three pupils also fell t
 The results from the Territory-wide System Assessment, announced by the Education Bureau on Monday, also prompted an academic to call for urgent efforts to address the problem if the trend continued next year.
 
 根据教育局周一公布的全港性系统评估结果，一位学者呼吁采取紧急措施来解决这一问题，以应对该趋势在明年持续下去的可能性。
+> prompted…to…, 迫使…做…
 
 The annual assessment was introduced in primary schools in 2004 before being extended to secondary schools. The data on competency levels is based on the percentage of students who pass its tests for the three subjects.
 
