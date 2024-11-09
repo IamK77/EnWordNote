@@ -39,6 +39,16 @@ Form Three students fared better in Chinese and maths than their peers from past
 
 中三学生在中文和数学方面的表现优于往年同龄人。
 
+Lee Yi-ying, chairwoman of the Subsidised Secondary Schools Council, said the students’ performance in the latest English tests were tied to disruptions to learning during the pandemic.
+
+“During Covid, the suspension of classes and the switch to online learning affected language learning the most. Almost no English activities could be held at the time,” said Lee, who also works as a secondary school principal.
+
+“Students lacked interactions with their teachers and peers. And due to everyone wearing masks, they could not learn how to pronounce words by looking at their teachers’ mouths. Speaking and listening skills were all affected.”
+
+The most recent batch of Primary Three and Form Three pupils to sit the test would have been in K3 and Primary Six at the start of the pandemic.
+
+Polly Chan Suk-yee, vice-chairwoman of the Hong Kong Aided Primary School Heads Association, said members of the education sector shared the view that students who entered primary school during the pandemic suffered from relatively poor academic performance, self-care abilities and discipline compared with their pre-Covid peers.
+
 “K3 is the year when all students formally learn how to write and it is the year for students to get prepared for Primary One, but those classes were mostly suspended [during the pandemic],” the principal said.
 
 “This prompted primary teachers to put extra effort into teaching them basic skills when they reached primary schools.”
