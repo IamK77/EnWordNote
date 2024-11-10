@@ -143,3 +143,131 @@ proportion:
     - percentage 百分比
     - share 份额
 
+sector:
+  词性: 
+    - n
+  意思: 部门，行业，领域
+  例句: "The tech sector has seen rapid growth in recent years."
+  形近词: 
+    - division 部门
+  反义词: 
+    - whole 整体
+  近义词:
+    - industry 行业
+    - field 领域
+
+collaboration:
+  词性: 
+    - n
+  意思: 合作，协作
+  例句: "The project is a collaboration between two leading universities."
+  形近词: 
+    - partnership 合作关系
+  反义词: 
+    - competition 竞争
+  近义词:
+    - cooperation 合作
+    - alliance 联盟
+
+strive:
+  词性: 
+    - v
+  意思: 努力，奋斗
+  例句: "The team strives to achieve high standards in their work."
+  形近词: 
+    - endeavor 努力
+  反义词: 
+    - give up 放弃
+  近义词:
+    - attempt 尝试
+    - pursue 追求
+
+validate:
+  词性: 
+    - v
+  意思: 证实，确认
+  例句: "The research findings validate the effectiveness of the new treatment."
+  形近词: 
+    - confirm 确认
+  反义词: 
+    - invalidate 使无效
+  近义词:
+    - affirm 证实
+    - corroborate 支持
+
+pursuit:
+  词性: 
+    - n
+  意思: 追求，追逐；爱好
+  例句: "His pursuit of knowledge led him to travel the world."
+  形近词: 
+    - quest 追求
+  反义词: 
+    - abandonment 放弃
+  近义词:
+    - aspiration 渴望
+    - endeavor 努力
+
+nurture:
+  词性: 
+    - v
+  意思: 培养，养育
+  例句: "The school aims to nurture students' creativity and critical thinking."
+  形近词: 
+    - cultivate 培养
+  反义词: 
+    - neglect 忽视
+  近义词:
+    - foster 培养
+    - develop 发展
+
+innovation:
+  词性: 
+    - n
+  意思: 创新，革新
+  例句: "Technological innovation is key to the company’s success."
+  形近词: 
+    - invention 发明
+  反义词: 
+    - tradition 传统
+  近义词:
+    - improvement 改进
+    - advancement 进步
+
+further:
+  词性: 
+    - adj
+    - adv
+  意思: 进一步的，更进一步；此外，更远地
+  例句: "Further studies are needed to understand the effects of the policy."
+  形近词: 
+    - additional 额外的
+  反义词: 
+    - less 少量的
+  近义词:
+    - more 更多的
+    - additional 附加的
+
+namely:
+  词性: 
+    - adv
+  意思: 即，也就是，具体来说
+  例句: "Three students, namely John, Sarah, and Tom, won scholarships this year."
+  形近词: 
+    - specifically 特别是
+  反义词: 
+    - generally 一般地
+  近义词:
+    - that is 即
+    - in other words 换句话说
+
+
+
+
+
+
+
+
+
+
+
