@@ -62,17 +62,35 @@ A spokesman for HKU said its consistent performance in the latest rankings highl
 
 “The university believes that its strong performance in the latest rankings will support HKU, as a global university in Asia, in contributing to the government’s ‘Study in Hong Kong’ initiative to develop Hong Kong into an international hub for post-secondary education,” he said.
 
+QS补充说，香港城市大学在另外三项指标上也是本地领先者，即每位教员的论文数量、拥有博士学位的教职工比例和国际学生数量。
+
+香港大学的一位发言人表示，其在最新排名中的稳定表现突显了其作为学术和创新全球领导者的地位。
+
+“大学相信，在最新排名中的优异表现将支持港大作为亚洲的全球性大学，为香港政府的‘Study in Hong Kong’计划做出贡献，推动香港成为国际高等教育枢纽。”他说道。
+
 CityU president Freddy Boey said the ranking proved that the institution was one of Asia’s top universities.
 
 “[It] highlights our steady progress in academic research and our pursuit of innovation and excellence,” he said.
 
 “CityU will continue to promote inspirational, interactive and innovative education, attracting top talent from around the world and nurturing future leaders with a global perspective.”
 
+香港城市大学校长包悦理（Freddy Boey）表示，这一排名证明该校是亚洲顶尖大学之一。
+
+“这突显了我们在学术研究中的稳定进展，以及我们对创新和卓越的追求，”他说道。
+
+“香港城市大学将继续推广启发性、互动性和创新的教育，吸引来自世界各地的顶尖人才，并培养具有全球视野的未来领导者。”
+
 A spokeswoman for CUHK said the results validated its leading position in the international higher education sector.
 
 “CUHK will continue to pursue excellence by striving for innovation in research and teaching, while also enhancing collaboration with higher education institutions worldwide, contributing to Hong Kong, the nation and global society for the benefit of humanity,” she said.
 
 PolyU president Teng Jin-guang said the university had achieved an impressive and encouraging result in the rankings, adding it would further strengthen its ties and collaborations with partners around the globe.
+
+香港中文大学（CUHK）的一位发言人表示，结果验证了其在国际高等教育领域的领先地位。
+
+“香港中文大学将继续通过追求研究和教学创新来追求卓越，同时加强与全球高等教育机构的合作，为香港、国家和全球社会做出贡献，造福人类，”她说道。
+
+香港理工大学（PolyU）校长滕锦光表示，理大在排名中取得了令人印象深刻且鼓舞人心的成绩，并补充说理大将进一步加强与全球合作伙伴的联系与合作。
 
 Baptist University and Lingnan University slid in their rankings to 71st and 188th, from 64th and 167th respectively last year.
 
@@ -82,4 +100,11 @@ Hong Kong Shue Yan University, a privately funded university, claimed 342nd plac
 
 Two other private institutions, Hong Kong Metropolitan University and the Hang Seng University of Hong Kong, entered the 541-560 category, moving up from the 701-750 and 601-650 groups respectively.
 
+香港浸会大学和岭南大学的排名分别从去年的第64位和第167位下降至第71位和第188位。
+
+作为该市最大的师范教育机构，香港教育大学首次进入排名，位列第212位。
+
+私立的香港树仁大学排名第342位，比之前的351-400名组别上升一个档次。
+
+另外两所私立院校——香港都会大学和香港恒生大学——进入541-560名组别，分别从之前的701-750名和601-650名组别上升。
 
