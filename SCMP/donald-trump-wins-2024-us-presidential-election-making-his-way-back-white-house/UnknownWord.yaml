@@ -1,0 +1,335 @@
+despite:
+  词性:
+    - prep
+  意思: 尽管
+  例句: "Despite the bad weather, they went hiking."
+  近义词:
+    - in spite of 尽管
+  形近词:
+    - beside在…旁边
+  反义词:
+    - due to由于
+
+woe:
+  词性:
+    - n
+  意思: 困境、苦难
+  例句: "The company faced financial woes due to the market crash."
+  近义词:
+    - trouble麻烦
+    - distress痛苦
+  反义词:
+    - joy欢乐
+    - success成功
+
+diminished:
+  词性:
+    - adj
+  意思: 减弱的、降低的
+  例句: "His influence has diminished over the years."
+  近义词:
+    - reduced减少的
+    - weakened削弱的
+  反义词:
+    - strengthened加强的
+    - increased增加的
+
+insurmountable:
+  词性:
+    - adj
+  意思: 难以克服的、不可逾越的
+  例句: "The challenges seemed insurmountable at first."
+  近义词:
+    - unbeatable不可战胜的
+    - overwhelming压倒性的
+  反义词:
+    - manageable可控制的
+    - surmountable可以克服的
+
+uphill:
+  词性:
+    - adj
+    - adv
+  意思: 艰难的，向上的
+  例句: "Running a business alone is an uphill task."
+  近义词:
+    - challenging有挑战性的
+    - arduous艰巨的
+  反义词:
+    - easy容易的
+    - straightforward简单的
+
+farewell:
+  词性:
+    - n
+    - v
+  意思: 告别、送别
+  例句: "He bid farewell to his colleagues before moving to a new city."
+  近义词:
+    - goodbye再见
+    - send-off送别
+  反义词:
+    - greeting问候
+    - welcome欢迎
+
+prophecy:
+  词性:
+    - n
+  意思: 预言，预示
+  例句: "His prophecy about the company’s success came true."
+  近义词:
+    - prediction预测
+    - forecast预报
+  形近词:
+    - professor教授
+
+commanding:
+  词性:
+    - adj
+  意思: 压倒性的，主导的
+  例句: "She secured a commanding lead in the polls."
+  近义词:
+    - dominant主导的
+    - overwhelming压倒性的
+  反义词:
+    - weak薄弱的
+    - marginal微不足道的
+
+indicted:
+  词性:
+    - v (过去分词)
+  意思: 被起诉
+  例句: "The executive was indicted on charges of fraud."
+  近义词:
+    - charged被控告
+  反义词:
+    - acquitted被宣判无罪
+  形近词:
+    - indicate表明
+
+convicted:
+  词性:
+    - v (过去分词)
+  意思: 被判有罪
+  例句: "He was convicted of theft in 2018."
+  近义词:
+    - found guilty被判有罪
+  反义词:
+    - exonerated被宣判无罪
+  形近词:
+    - convinced确信的
+
+fraud:
+  词性:
+    - n
+  意思: 欺诈，欺骗
+  例句: "He was charged with tax fraud."
+  近义词:
+    - deception欺骗
+    - scam诈骗
+  反义词:
+    - honesty诚实
+
+felony:
+  词性:
+    - n
+  意思: 重罪
+  例句: "He was convicted of a felony and faced a long prison sentence."
+  近义词:
+    - crime犯罪
+    - offense罪行
+  反义词:
+    - misdemeanor轻罪
+    - innocence无罪
+
+inflated:
+  词性:
+    - adj
+  意思: 膨胀的，夸大的
+  例句: "The company's reports included inflated sales figures."
+  近义词:
+    - exaggerated夸大的
+    - overstated过度陈述的
+  反义词:
+    - realistic实际的
+    - minimized缩小的
+
+assets:
+  词性:
+    - n
+  意思: 资产，财产
+  例句: "Her assets include real estate and stocks."
+  近义词:
+    - property财产
+    - resources资源
+  反义词:
+    - liabilities负债
+    - debts债务
+
+sexual:
+  词性:
+    - adj
+  意思: 性的，与性相关的
+  例句: "The case involved allegations of sexual harassment."
+  近义词:
+    - erotic情色的
+    - intimate亲密的
+  反义词:
+    - platonic柏拉图式的（非性的）
+    - nonsexual非性的
+
+abuse:
+  词性:
+    - n
+    - v
+  意思: 虐待，滥用
+  例句: "The organization works to prevent child abuse."
+  近义词:
+    - mistreatment虐待
+    - exploitation剥削
+  反义词:
+    - protection保护
+    - care照顾
+
+prospect:
+  词性:
+    - n
+  意思: 前景，可能性
+  例句: "The prospect of a promotion motivated him to work harder."
+  近义词:
+    - possibility可能性
+    - outlook前景
+  反义词:
+    - improbability不可能
+    - retrospect回顾
+
+discontent:
+  词性:
+    - n
+  意思: 不满，不平
+  例句: "The economic crisis led to widespread discontent among citizens."
+  近义词:
+    - dissatisfaction不满
+    - resentment怨恨
+  反义词:
+    - satisfaction满足
+    - contentment满意
+
+hobble:
+  词性:
+    - v
+  意思: 阻碍，妨碍
+  例句: "The new regulations hobbled small businesses."
+  近义词:
+    - hamper阻碍
+    - impede阻止
+  反义词:
+    - facilitate促进
+    - support支持
+
+candidacy:
+  词性:
+    - n
+  意思: 候选人资格，竞选
+  例句: "His candidacy for president was announced last week."
+  近义词:
+    - nomination提名
+    - campaign竞选
+  反义词:
+    - withdrawal退出
+
+widespread:
+  词性:
+    - adj
+  意思: 广泛的，普遍的
+  例句: "The new policy received widespread support from the public."
+  近义词:
+    - extensive广泛的
+    - prevalent流行的
+  反义词:
+    - limited有限的
+    - rare稀少的
+
+podcast:
+  词性:
+    - n
+  意思: 播客，一种数字音频节目
+  例句: "She started a podcast to discuss environmental issues."
+  近义词:
+    - audio show音频节目
+  形近词:
+    - broadcast广播
+
+disdain:
+  词性:
+    - n
+    - v
+  意思: 蔑视，鄙视
+  例句: "He spoke with disdain about the unfair policies."
+  近义词:
+    - contempt轻蔑
+    - scorn鄙视
+  反义词:
+    - respect尊重
+    - admiration钦佩
+
+quo:
+  词性:
+    - n
+  意思: 现状（常用于短语“status quo”表示“现状”）
+  例句: "Many people are frustrated with the status quo."
+  近义词:
+    - current situation当前状况
+    - state状态
+
+sweeping:
+  词性:
+    - adj
+  意思: 全面的，影响广泛的
+  例句: "The government introduced sweeping reforms in education."
+  近义词:
+    - comprehensive全面的
+    - far-reaching影响深远的
+  反义词:
+    - narrow狭窄的
+    - limited有限的
+
+routing:
+  词性:
+    - v (动名词形式)
+  意思: 大败，彻底击败
+  例句: "The team routed their opponents in the final game."
+  近义词:
+    - defeating击败
+    - overpowering压倒
+  反义词:
+    - losing失败
+  形近词:
+    - route路径
+
+indictment:
+  词性:
+    - n
+  意思: 起诉书，控诉
+  例句: "The indictment detailed multiple charges against the suspect."
+  近义词:
+    - accusation指控
+    - charge指控
+  反义词:
+    - acquittal无罪释放
+  形近词:
+    - indictment起诉状
+
+rival:
+  词性:
+    - n
+    - v
+  意思: 竞争对手；与……竞争
+  例句: "The two companies are fierce rivals in the tech industry."
+  近义词:
+    - competitor竞争者
+    - opponent对手
+  反义词:
+    - ally盟友
+    - partner伙伴
+
