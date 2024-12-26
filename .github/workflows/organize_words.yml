@@ -3,8 +3,6 @@ name: Organize Words by First Letter
 on:
   schedule:
     - cron: '0 16 * * *' # 每天零点执行
-    - cron: '0 4 * * *' # 每天12点执行
-    - cron: '30 9 * * *' # 每天17:30执行
   workflow_dispatch:
 
 jobs:
